@@ -1,0 +1,21 @@
+{
+    "name": "baixar_lista2",
+    "version": "0.0.2",
+    "description": "download all files from txt list",
+    "main": "main.js",
+    "bin": "bin.js",
+    "author": "anybody",
+    "license": "MIT",
+    "dependencies": {
+        "fastq": "^1.8.0",
+        "fs": "0.0.1-security",
+        "line-reader": "^0.4.0",
+        "path": "^0.12.7",
+        "readline": "^1.3.0",
+        "request": "^2.88.2",
+        "single-line-log": "^1.1.2",
+        "url": "^0.11.0",
+        "utf8": "^3.0.0",
+        "uuid": "^8.2.0"
+    }
+}
