@@ -10,7 +10,13 @@ Will execute multi-thread version (mainmt.js)
 
 ## Compile:
 > npm install -g pkg
-> 
+
+### For Windows
 > ./make.exe.bat
 
-output will be on /FINAL/baixar_lista.exe or on ./baixar_lista.exe
+### For Linux
+> ./make.sh.bat
+> chmod +x baixar_lista
+
+
+output will be on root folder as ./baixar_lista.exe (win) or ./baixar_lista (unix)
